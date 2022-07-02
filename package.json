@@ -1,0 +1,19 @@
+{
+  "name": "template-apirest",
+  "version": "1.0.0",
+  "description": "template of pai rest",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandochata/template-apirest.git"
+  },
+  "keywords": [],
+  "author": "Fernando Chata",
+  "license": "MIT license",
+  "bugs": {
+    "url": "https://github.com/fernandochata/template-apirest/issues"
+  },
+  "homepage": "https://github.com/fernandochata/template-apirest#readme"
+}
