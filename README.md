@@ -1,2 +1,2 @@
 # template-apirest
-template of pai rest
+template of API Rest
